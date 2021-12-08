@@ -1,0 +1,27 @@
+h1,h2,nav,p{
+    text-align:center;
+    
+}
+img{
+    margin: auto;
+    display: block;
+}
+
+
+h1{
+    background-color:yellow;
+    font-size:40px;
+}
+h2{
+    font-size: 32px;
+}
+nav,p{
+    font-size:25px;
+}
+nav{
+    list-style-position:inside;
+    }
+.stok{
+    font-style: italic;
+    color:red;   
+}
